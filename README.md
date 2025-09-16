@@ -137,6 +137,3 @@ pip install -r requirements.txt
 * **Goal**: Demonstrate desktop automation with Python
 
 ---
-
-Do you want me to also generate the **`requirements.txt`** and **`setup.py`** files content fully so you can just drop them in alongside this README?
-#
